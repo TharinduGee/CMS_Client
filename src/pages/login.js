@@ -93,7 +93,7 @@ const data = {
           Log In
         </Button>
         <p>
-          <span>Don't have an account test? test1 </span>
+          <span>Don't have an account test? </span>
           <Link
             component="button"
             variant="body1"
